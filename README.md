@@ -65,11 +65,12 @@ Here are some screenshots of the game:
 To run the project locally:
 
 <h2>Clone the Repository:</h2>
-git clone https://github.com/your-username/tic-tac-toe.git
+https://github.com/gsandhya-12/tic-tac-toe.git
 
 Open the index.html File: Open index.html in your browser to play the game.
 <br>
 <h2>Future Improvements<h2>
-Add AI player to play against the computer.
-Implement Score Tracking to keep track of wins and losses.
-Add a Timer for each turn to increase the challenge.
+<p>Add AI player to play against the computer.
+I  implement Score Tracking to keep track of wins and losses.
+    Add a Timer for each turn to increase the challenge.
+</p>
