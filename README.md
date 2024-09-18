@@ -44,8 +44,7 @@ Here are some screenshots of the game:
 
 - **Player O's winning pattern**
   ![player_O_patern](img2.png)
-
-  - **Winning Screen for Player O**
+- **Winning Screen for Player O**
   ![Player O Wins](img3.png)
 
 - **Player X's winning pattern**
