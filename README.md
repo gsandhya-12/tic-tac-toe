@@ -40,26 +40,26 @@ Reset the Game: Use the Reset Game button to start a new match at any time.
 Here are some screenshots of the game:
 
 - **Initial Screen**
-  ![Initial Screen](screenshots/img1.png)
+  ![Initial Screen](img1.png)
 
 - **Player O's winning pattern**
-  ![player_O_patern](screenshots/img2.png)
+  ![player_O_patern](img2.png)
 
   - **Winning Screen for Player O**
-  ![Player O Wins](screenshots/img3.png)
+  ![Player O Wins](img3.png)
 
 - **Player X's winning pattern**
-  ![player_X_patern](screenshots/img4.png)
+  ![player_X_patern](img4.png)
 
 - **Winning Screen for Player X**
-  ![Player X Wins](screenshots/img5.png)
+  ![Player X Wins](img5.png)
 
 
 - **Draw Game Pattern**
-  ![Draw Game](screenshots/img6.png)
+  ![Draw Game](img6.png)
 
 - **Draw screen**
-  ![Draw Screen](screenshots/img7.png)
+  ![Draw Screen](img7.png)
 
 <br>
 <h2>Getting Started</h2>
